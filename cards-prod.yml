@@ -1,11 +1,11 @@
 build:
   version: "1.0"
 
-cards:
-  message: "Welcome to EazyBank cards-related prod APIs "
+accounts:
+  message: "Welcome to NisBank cards API"
   contactDetails:
     name: "Nir Bar Levav - Developer"
-    email: "nir@nisbank.com"
+    email: "{cipher}43a33df645b271a4cd944345fce7a0c5be42996b4e0f9b5530ad70ebdc980bb4"
   onCallSupport:
-    - (617) 432-2356
-    - (936) 564-8721
+    - (+972) 50-1234455
+    - (+972) 50-1236677

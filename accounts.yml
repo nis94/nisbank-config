@@ -1,11 +1,11 @@
 build:
-  version: "3.0"
+  version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs "
+  message: "Welcome to NisBank accounts API"
   contactDetails:
-    name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    name: "Nir Bar Levav - Developer"
+    email: "nir@nisbank.com"
   onCallSupport:
-    - (555) 555-1234
-    - (555) 523-1345
+    - (+972) 50-1234455
+    - (+972) 50-1236677

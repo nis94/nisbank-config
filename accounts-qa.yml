@@ -1,11 +1,11 @@
 build:
-  version: "2.0"
+  version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to NisBank accounts API QA"
   contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    name: "Nir Bar Levav - Developer"
+    email: "nir@nisbank.com"
   onCallSupport:
-    - (666) 265-3765
-    - (666) 734-8371
+    - (+972) 50-1234455
+    - (+972) 50-1236677

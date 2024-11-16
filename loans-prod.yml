@@ -1,11 +1,11 @@
 build:
   version: "1.0"
 
-loans:
-  message: "Welcome to EazyBank loans related prod APIs "
+accounts:
+  message: "Welcome to NisBank loans API PROD"
   contactDetails:
-    name: "Pelias Sudhir - Product Owner"
-    email: "pelias@eazybank.com"
+    name: "Nir Bar Levav - Developer"
+    email: "{cipher}43a33df645b271a4cd944345fce7a0c5be42996b4e0f9b5530ad70ebdc980bb4"
   onCallSupport:
-    - (723) 656-8709
-    - (156) 342-0956
+    - (+972) 50-1234455
+    - (+972) 50-1236677

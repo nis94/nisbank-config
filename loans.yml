@@ -1,11 +1,11 @@
 build:
-  version: "3.0"
+  version: "1.0"
 
-loans:
-  message: "Welcome to EazyBank loans related local APIs "
+accounts:
+  message: "Welcome to NisBank loans API"
   contactDetails:
-    name: "Amaal Grega - Developer"
-    email: "amaal@eazybank.com"
+    name: "Nir Bar Levav - Developer"
+    email: "nir@nisbank.com"
   onCallSupport:
-    - (452) 456-2176
-    - (546) 764-8934
+    - (+972) 50-1234455
+    - (+972) 50-1236677
